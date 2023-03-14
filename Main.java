@@ -1,8 +1,5 @@
 /*
-Eugene S Khayega SIK/B/01-01744/2021
-Kevin Kimutai SIK/B/01-01750/2021
-Sharlet Brenda  SIK/B/01-01133/2021
-ACHIENG' Mercylinda  SIK/B/01-01748/2021
+Christabel Kasoa SIK/B/01-01717/2021
 */
 public class Main {
     public static void main(String[] args) {
